@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
-🚀 Welcome to my world of systems, performance & code
+🚀 Systems • Performance • Engineering
 </p>
 
 ---
@@ -10,14 +10,14 @@
 
 👋 Hi, I’m **Umair**  
 
-🧠 I’m a student deeply curious about **High Performance Computing (HPC)** and **Quantitative Finance systems** — especially how software interacts with hardware to extract every bit of performance.
+🧠 I’m a student focused on **High Performance Computing (HPC)** and **Quantitative Finance systems**, exploring how software interacts with hardware to maximize performance.
 
-⚙️ I focus on:
-- Strong fundamentals
-- Performance-aware programming
-- Understanding systems from the ground up
+⚙️ My approach:
+- Strong fundamentals first  
+- Performance-aware programming  
+- Deep system-level understanding  
 
-> I believe understanding how things work internally matters more than chasing tools.
+> *Understanding internals > chasing tools*
 
 ---
 
@@ -25,9 +25,9 @@
 
 - 🐧 Linux & Systems Fundamentals  
 - 🧩 Computer Architecture & Memory Hierarchy  
-- 🔁 Parallel Computing Concepts  
+- 🔁 Parallel Computing  
 - 🧮 Numerical Computing  
-- 🛠️ Git, Build Systems & Engineering Workflow  
+- 🛠️ Git & Engineering Workflow  
 
 ---
 
@@ -50,53 +50,46 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java,react,nextjs,nodejs,tailwind,graphql,nestjs,aws,gcp,azure,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,tailwind,graphql,nestjs,aws,gcp,azure,docker,git,linux" />
 </p>
 
 ---
 
 ## 🧠 Core Interests
 
-- ⚡ High Performance Computing (HPC)  
+- ⚡ High Performance Computing  
 - 📊 Quantitative Finance Systems  
-- 🧮 Numerical & Scientific Computing  
+- 🧮 Numerical Computing  
 - 🧵 Parallel & Distributed Systems  
-- 🧠 Low-level Optimization & Memory Management  
+- 🧠 Low-level Optimization  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AraLithic&theme=ambient_gradient&hide_border=false&include_all_commits=true"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AraLithic&theme=ambient_gradient&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AraLithic&theme=ambient_gradient&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AraLithic&theme=ambient_gradient&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AraLithic&theme=ambient_gradient&layout=compact" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AraLithic&theme=ambient_gradient" height="150"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AraLithic&theme=neon&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AraLithic&theme=neon"/>
 </p>
 
 ---
 
-## 🔝 Top Contributions
+## 🔝 Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AraLithic&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## 🎯 Activity Graph
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AraLithic&theme=dracula"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AraLithic&limit=5&theme=dark"/>
 </p>
 
 ---
@@ -115,4 +108,6 @@
 
 ---
 
-⭐ *Building systems. Optimizing performance. Thinking deeper.*
+<p align="center">
+⭐ <i>Building systems. Optimizing performance. Thinking deeper.</i>
+</p>
