@@ -13,7 +13,7 @@
 🧠 I’m a student focused on **High Performance Computing (HPC)** and **Quantitative Finance systems**, exploring how software interacts with hardware to maximize performance.
 
 ⚙️ My approach:
-- Strong fundamentals first  
+- Strong fundamentals  
 - Performance-aware programming  
 - Deep system-level understanding  
 
