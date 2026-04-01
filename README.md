@@ -13,18 +13,14 @@
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/AraLithic/AraLithic/output/pacman-contribution-graph.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AraLithic&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AraLithic&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AraLithic&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AraLithic&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800)<br/>
+![](https://streak-stats.demolab.com?user=AraLithic&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AraLithic&theme=ambient_gradient&hide_border=false&layout=compact&cache_seconds=1800)
+
+## 🟢 Contribution Pacman
+![Pacman Contribution Graph](https://raw.githubusercontent.com/AraLithic/AraLithic/output/pacman-contribution-graph.svg)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AraLithic&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AraLithic&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=AraLithic&theme=algolia&no-frame=true&margin-w=10)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AraLithic&icon=4&color=2)](https://visitcount.itsvg.in)
-
-
-
