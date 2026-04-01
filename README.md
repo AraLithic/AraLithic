@@ -26,8 +26,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AraLithic&icon=4&color=2)](https://visitcount.itsvg.in)
 
-## 🟢 Contribution Pacman
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/AraLithic/AraLithic/output/pacman-contribution-graph.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
