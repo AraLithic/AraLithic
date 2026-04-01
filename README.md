@@ -17,8 +17,6 @@
 ![](https://streak-stats.demolab.com?user=AraLithic&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AraLithic&theme=ambient_gradient&hide_border=false&layout=compact&cache_seconds=1800)
 
-## 🟢 Contribution Pacman
-![Pacman Contribution Graph](https://raw.githubusercontent.com/AraLithic/AraLithic/output/pacman-contribution-graph.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AraLithic&theme=algolia&no-frame=true&margin-w=10)
